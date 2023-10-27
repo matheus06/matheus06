@@ -30,7 +30,7 @@
 
 ![article-app-azure](https://github.com/matheus06/article-app-azure/blob/main/docs/architecture.png)
 
-### Pantry Project (in progress...)
+### Pantry Project (in progress...⏳)
 
 * https://github.com/matheus06/pantry-project
 
