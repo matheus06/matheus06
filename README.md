@@ -19,6 +19,8 @@
 ### My Portfolio
 
 * https://matheus.azurewebsites.net/
+  * https://github.com/matheus06/portfolio-ui
+  * https://github.com/matheus06/portfolio-api
   
 ![portfolio-arch](https://github.com/matheus06/portfolio-api/blob/main/architeture/portfolio.png)
 
