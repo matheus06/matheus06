@@ -26,9 +26,19 @@
 
 ### Azure Simple WebApp
 
-https://github.com/matheus06/article-app-azure
+* https://github.com/matheus06/article-app-azure
 
 ![article-app-azure](https://github.com/matheus06/article-app-azure/blob/main/docs/architecture.png)
+
+### Pantry Project (in progress...)
+
+* https://github.com/matheus06/pantry-project
+
+Local:
+![pantry-project-arc-local](https://github.com/matheus06/pantry-project/blob/main/docs/arch-local.png)
+
+k8s:
+![pantry-project-arc-k8s](https://github.com/matheus06/pantry-project/blob/main/docs/arch-k8s.png)
 
 ## Counter
 
