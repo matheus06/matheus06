@@ -20,7 +20,13 @@
 
 * https://matheus.azurewebsites.net/
   
-![portfolio-arcj](https://github.com/matheus06/portfolio-api/blob/main/architeture/portfolio.png)
+![portfolio-arch](https://github.com/matheus06/portfolio-api/blob/main/architeture/portfolio.png)
+
+### Azure Simple WebApp
+
+https://github.com/matheus06/article-app-azure
+
+![article-app-azure](https://github.com/matheus06/portfolio-api/blob/main/architeture/portfolio.png](https://github.com/matheus06/article-app-azure/blob/main/docs/architecture.png)
 
 ## Counter
 
