@@ -6,7 +6,7 @@
 
 ## Certifications
 
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](https://www.credly.com/earner/earned/badge/a76100da-c9d9-49c2-ace8-79978fdba020)
+[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob)](https://www.credly.com/earner/earned/badge/a76100da-c9d9-49c2-ace8-79978fdba020)
 [![Microsoft Certified: DevOps Engineer Expert](https://images.credly.com/size/110x110/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png)](https://www.credly.com/earner/earned/badge/b672a24f-dda1-4115-931e-cc1b438a2f73)
 [![Microsoft Certified: Azure Developer Associate](https://images.credly.com/size/110x110/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png)](https://www.credly.com/badges/bc3f5b0b-46ec-4434-b1d9-e7982097f837)
 [![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](https://www.credly.com/earner/earned/badge/bca16ceb-8c50-423c-b74d-84935fbd9588)
